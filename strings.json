@@ -1,0 +1,129 @@
+
+
+{
+    "en": {
+        
+        "AED": "AED",
+    
+        "Agricultural Bank": "Agricultural Bank",
+        
+        "Andhra Bank": "Andhra Bank",
+        
+        "An Express": "An Express",
+        
+        "ANZ Bank": "ANZ Bank",
+        
+        "ATM Cash": "ATM Cash",
+        
+        "AUD": "AUD",
+        
+        "Axis Remit": "Axis Remit",
+        
+        "Banamex": "Banamex",
+        
+        "Banco Azteca": "Banco Azteca",
+
+        "XOOM (Locked-in)": "XOOM (Locked-in)",
+        
+        "Yes Bank": "Yes Bank"
+
+        
+
+    },
+    
+    
+    "Sp": {
+        
+        "AED": "AED",
+        
+        "Agricultural Bank": "Agricultural Banco",
+        
+        "Andhra Bank": "Banco Agrícola",
+        
+        "An Express": "Un Express",
+
+        "ANZ Bank": "ANZ Bank",
+        
+        "ATM Cash": "Efectivo de los CAJEROS AUTOMÁTICOS",
+        
+        "AUD": "AUD",
+        
+        "Axis Remit": "Competencias Eje",
+        
+        "Banamex": "Banamex",
+        
+        "Banco Azteca": "Banco Azteca",
+
+        "XOOM (Locked-in)": "XOOM (bloqueado)",
+        
+        "Yes Bank": "Sí Banco"
+
+        
+       
+        
+    
+        
+},
+    
+    
+    "Ch": {
+        
+        "AED": "非洲經濟文摘",
+        
+        "Agricultural Bank": "农业银行",
+        
+        "Andhra Bank": "安得银行",
+        
+        "An Express": "快速",
+        
+        "ANZ Bank": "ANZ银行",
+        
+        "ATM Cash": "自动柜员机现金",
+        
+        "AUD": "澳元",
+        
+        "Axis Remit": "轴职权范围",
+        
+        "Banamex": "投資",
+        
+        "Banco Azteca": "阿茲台克銀行",
+        
+        "XOOM (Locked-in)": "xoom(鎖定的)",
+        
+        "Yes Bank": "對銀行"
+
+        
+
+    },
+
+    
+    "Fi": {
+        
+        "AED": "AED",
+        
+        "Agricultural Bank": "Pang-agrikultura Bank",
+        
+        "Andhra Bank": "Andhra Bank",
+        
+        "An Express": "May Express",
+        
+        "ANZ Bank": "ANZ Bank",
+        
+        "ATM Cash": "ATM Cash",
+        
+        "AUD": "AUD",
+        
+        "Axis Remit": "Axis-remit",
+        
+        "Banamex": "Banamex",
+        
+        "Banco Azteca": "Banco Azteca",
+        
+        "XOOM (Locked-in)": "Xoom (Naka-lock-in ')",
+        
+        "Yes Bank": "Oo Bangko"
+
+        
+        
+    }
+}
